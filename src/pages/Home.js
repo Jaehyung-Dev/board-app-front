@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 
 const Home = () => {
   useEffect(() => {
-    alert('안녕하세요!');
+    alert('안녕하세요?!');
   })
 
   return (
